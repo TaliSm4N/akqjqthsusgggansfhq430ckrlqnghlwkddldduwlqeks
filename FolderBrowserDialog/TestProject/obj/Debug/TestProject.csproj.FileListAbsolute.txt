@@ -1,0 +1,8 @@
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.exe
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.pdb
+F:\Downloads\FolderBrowserDialog\TestProject\bin\Debug\TestProject.exe
+F:\Downloads\FolderBrowserDialog\TestProject\bin\Debug\TestProject.pdb
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.MainForm.resources
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
