@@ -6,3 +6,5 @@ F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.csprojResolve
 F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.MainForm.resources
 F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.Properties.Resources.resources
 F:\Downloads\FolderBrowserDialog\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+F:\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\FolderBrowserDialog\TestProject\obj\Debug\TestProject.exe
+F:\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\FolderBrowserDialog\TestProject\obj\Debug\TestProject.pdb
