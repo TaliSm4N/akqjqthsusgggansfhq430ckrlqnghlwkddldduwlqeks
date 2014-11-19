@@ -25,7 +25,7 @@ namespace Project
 
         bool active=false;
 
-        private int channelsplaying = 0;
+        //private int channelsplaying = 0;
 
         static void Main()
         {
@@ -45,12 +45,6 @@ namespace Project
             result = FMOD.Factory.System_Create(ref system);
 
             result = system.getVersion(ref version);
-
-            if (version < FMOD.VERSION.number)
-            {
-                MessageBox.Show("Error!  You are using an old version of FMOD " + version.ToString("X") + ".  This program requires " + FMOD.VERSION.number.ToString("X") + ".");
-                Application.Exit();
-            }
 
             result = system.init(100, FMOD.INITFLAGS.NORMAL, (IntPtr)null);
 
