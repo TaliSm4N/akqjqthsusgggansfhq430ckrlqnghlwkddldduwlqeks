@@ -1,0 +1,10 @@
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\bin\Debug\proto.exe.config
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\bin\Debug\proto.exe
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\bin\Debug\proto.pdb
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.csprojResolveAssemblyReference.cache
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.Menu.resources
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.Properties.Resources.resources
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.csproj.GenerateResource.Cache
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.exe
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.pdb
+C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\proto\proto\obj\Debug\proto.Settiong_Form.resources

@@ -7,3 +7,12 @@ C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\P
 C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\Project\Project\bin\Debug\Project.pdb
 C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\Project\Project\obj\Debug\Project.exe
 C:\Users\JYCHOI\Documents\GitHub\akqjqthsusgggansfhq430ckrlqnghlwkddldduwlqeks\Project\Project\obj\Debug\Project.pdb
+C:\Users\JYCHOI\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\JYCHOI\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\JYCHOI\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\JYCHOI\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache

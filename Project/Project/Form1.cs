@@ -56,7 +56,7 @@ namespace Project
 
             result = sound[1].setMode(FMOD.MODE.LOOP_NORMAL);
 
-            result = system.createSound(c, (FMOD.MODE._2D | FMOD.MODE.SOFTWARE | FMOD.MODE.CREATESTREAM), ref sound[2]);
+            result = system.createSound(c, (FMOD.MODE._2D | FMOD.MODE.HARDWARE | FMOD.MODE.CREATESTREAM), ref sound[2]);
 
             result = sound[2].setMode(FMOD.MODE.LOOP_NORMAL);
         }
